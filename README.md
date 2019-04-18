@@ -32,7 +32,7 @@ About the Author
 前导
 =====
 
-- 1. [金融机器学习是一个独特的主题](https://github.com/9seed/Advances-in-Financial-ML/blob/master/PREAMBLE/Financial%20Machine%20Learning%20as%20a%20Distinct%20Subject)
+- 1. [金融机器学习是一个独特的主题](https://github.com/9seed/Advances-in-Financial-ML/blob/master/PREAMBLE/Financial%20Machine%20Learning%20as%20a%20Distinct%20Subject.md)
 
     - 1.1 动机
     
