@@ -32,29 +32,29 @@ About the Author
 前导
 =====
 
-1. [金融机器学习是一个独特的主题](https://github.com/9seed/Advances-in-Financial-ML/blob/master/PREAMBLE/Financial%20Machine%20Learning%20as%20a%20Distinct%20Subject)
+- 1. [金融机器学习是一个独特的主题](https://github.com/9seed/Advances-in-Financial-ML/blob/master/PREAMBLE/Financial%20Machine%20Learning%20as%20a%20Distinct%20Subject)
 
-    1.1 动机
+    - 1.1 动机
     
-    1.2 金融机器学习项目经常失败的主要原因
+    - 1.2 金融机器学习项目经常失败的主要原因
     
-        1.2.1 西西弗斯范式
+        - 1.2.1 西西弗斯范式
         
-        1.2.2 元策略范式
+        - 1.2.2 元策略范式
         
-    1.3 本书结构
+    - 1.3 本书结构
     
-        1.3.1 生产链角度  
+        - 1.3.1 生产链角度  
         
-        1.3.2 策略组件角度
+        - 1.3.2 策略组件角度
         
-        1.3.3 常见陷阱角度
+        - 1.3.3 常见陷阱角度
         
-    1.4 目标读者
+    - 1.4 目标读者
     
-    1.5 对读者的要求
+    - 1.5 对读者的要求
     
-    1.6 FAQs
+    - 1.6 FAQs
     
-    1.7 必备知识
+    - 1.7 必备知识
     
