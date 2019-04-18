@@ -32,9 +32,9 @@ About the Author
 前导
 ====
 
-1. [金融机器学习是一个独特的主题](#1)
+1. [金融机器学习是一个独特的主题](https://github.com/9seed/Advances-in-Financial-ML/blob/master/PREAMBLE/Financial%20Machine%20Learning%20as%20a%20Distinct%20Subject)
 
-    1.1 [动机](#./Financial Machine Learning as a Distinct Subject/1.1 Movivation)
+    1.1 动机
     
     1.2 金融机器学习项目经常失败的主要原因
     
@@ -60,4 +60,3 @@ About the Author
     
     
     
-# 1
